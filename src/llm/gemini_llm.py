@@ -5,7 +5,7 @@ from google import genai
 
 
 class GeminiLLM(Seq2SeqLLMInterface):
-    GOOGLE_API_KEY = "AIzaSyAdhXG91SsmuO30DLjvE35Tsx0USPlW8xg"
+    GOOGLE_API_KEY = "AIzaSyA6s7Dia-bgTQoo2D6nCIRSmHf_JtkEG-o"
     MODEL = "gemini-2.5-flash"
 
     def __init__(
